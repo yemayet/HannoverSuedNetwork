@@ -1,0 +1,47 @@
+$VMR
+* vehicle type
+4
+* From-Time  To-Time
+0.00 1.00
+* Factor
+0.05
+*
+* some
+* additional
+* comments
+* District number
+16
+* names:
+     A		B		C		D		E		F		G		H		I		J		K		L		M		N		O		
+*
+* District A Sum = 11614
+          0			154		0		60		220		0		212		68		13		0		164		143		0		125		46		
+* District B Sum = 3064
+          160		0		0		0		0		0		0		0		0		0		0		125		0		79		7		
+* District C Sum = 2278
+          0			0		0		0		9		0		221		173		29		0		209		178			21		103		60		
+* District D Sum = 1455
+          129		0		0		55		0		0		151		0		3		0		230			0		0		2		0		
+* District E Sum = 19857-68
+		  142		0		0		0		0		0		67		0	124		105		200		0		100		179		68		
+* District F Sum = 2335
+		  177		0		24		6		137		159		104			0		158		7		40		0		1		6		3		
+* District G Sum = 10321
+          148		0		104		129		168		0		0		0		0		0		0		0		0		0		0		
+* District H Sum = 14880-272
+		 87		3		189		0		0		0		0		0		197		163		123		0		113		167		172		
+* District I Sum = 19726
+		  21		19		14		119		184		126		0		52		150		0		0		1		0	14		3		
+* District J Sum = 898
+		  0		0		0		0		38		2		0		297		1		0		0		0		0		0		0		
+* District K Sum = 3850
+		 150		139		67		159		68		4		0		141		2		0		18		0		27		80		10		
+* District L Sum = 7726919
+		  138		137		72		0		1		0		0		0		0		0		0		0		140		0		119		
+* District M Sum = 51335
+          0		0		25		0		13		0		0		182		2		0		149		164		0		0				
+* District N Sum = 22373
+         194		156		152		1		170		8		0		123		6		0		39		128		0		9		3		
+* District O Sum = 5516
+         69		15		71		0		69		0		43		210		18		0		84		100		51		2		1		
+

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<tazs>
+    <taz id="A">
+        <tazSource id="gneE3" weight="1"/>
+        <tazSink id="gneE2" weight="1"/>
+
+    </taz>
+
+    <taz id="B">
+
+        <tazSource id="gneE8" weight="1"/>
+        <tazSink id="gneE9" weight="1"/>
+
+
+    </taz>
+
+    <taz id="C">
+
+        <tazSource id="gneE6" weight="1"/>
+        <tazSink id="gneE7" weight="1"/>
+
+    </taz>
+
+    <taz id="D">
+
+        <tazSource id="lutherin.5" weight="1"/>
+        <tazSink id="gneE43" weight="1"/>
+
+    </taz>
+
+    <taz id="E">
+
+        <tazSource id="gneE21" weight="1"/>
+        <tazSink id="gneE22" weight="1"/>
+
+    </taz>
+
+    <taz id="F">
+
+        <tazSource id="gneE40" weight="1"/>
+        <tazSink id="lindemannalleeout" weight="1"/>
+
+    </taz>
+
+    <taz id="G">
+
+        <tazSource id="gneE39" weight="1"/>
+        <tazSink id="mainzerout" weight="1"/>
+
+    </taz>
+
+    <taz id="H">
+
+        <tazSource id="gneE36" weight="1"/>
+        <tazSink id="stresemannalleeout" weight="1"/>
+
+    </taz>
+
+    <taz id="I">
+
+        <tazSource id="gneE34" weight="1"/>
+        <tazSink id="andertiefenriedeout" weight="1"/>
+
+    </taz>
+
+    <taz id="J">
+
+        <tazSource id="gneE35" weight="1"/>
+        <tazSink id="andertiefenriedenordout" weight="1"/>
+
+    </taz>
+
+    <taz id="K">
+
+        <tazSource id="gneE33" weight="1"/>
+        <tazSink id="hildesheimerout" weight="1"/>
+
+    </taz>
+
+    <taz id="L">
+
+        <tazSource id="gneE32" weight="1"/>
+        <tazSink id="altenbekenerwestout" weight="1"/>
+
+    </taz>
+
+    <taz id="M">
+
+        <tazSource id="gneE26" weight="1"/>
+        <tazSink id="gneE25" weight="1"/>
+
+    </taz>
+
+    <taz id="N">
+
+        <tazSource id="gneE44" weight="1"/>
+        <tazSink id="buergermeisterfinkout" weight="1"/>
+
+    </taz>
+
+    <taz id="O">
+
+        <tazSource id="gneE1" weight="1"/>
+        <tazSink id="gneE0" weight="1"/>
+
+    </taz>
+
+</tazs>
